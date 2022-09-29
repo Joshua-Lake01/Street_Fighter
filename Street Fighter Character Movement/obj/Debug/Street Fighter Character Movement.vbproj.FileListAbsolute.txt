@@ -1,0 +1,12 @@
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\bin\Debug\Street Fighter Character Movement.exe.config
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\bin\Debug\Street Fighter Character Movement.exe
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\bin\Debug\Street Fighter Character Movement.pdb
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\bin\Debug\Street Fighter Character Movement.xml
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\obj\Debug\Street Fighter Character Movement.vbprojAssemblyReference.cache
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\obj\Debug\Street_Fighter_Character_Movement.Form1.resources
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\obj\Debug\Street_Fighter_Character_Movement.Resources.resources
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\obj\Debug\Street Fighter Character Movement.vbproj.GenerateResource.cache
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\obj\Debug\Street Fighter Character Movement.vbproj.CoreCompileInputs.cache
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\obj\Debug\Street Fighter Character Movement.exe
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\obj\Debug\Street Fighter Character Movement.xml
+C:\Users\lakes\source\repos\Street Fighter Character Movement\Street Fighter Character Movement\obj\Debug\Street Fighter Character Movement.pdb
